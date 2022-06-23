@@ -83,7 +83,7 @@ class ServiceSection extends StatelessWidget {
               GestureDetector(
                 onTap: () {
                   Utilty.openUrl(
-                      "https://github.com/AgnelSelvan/AgnelSelvan.github.io/raw/main/assets/files/Agnel-Selvan.pdf");
+                      "https://github.com/devDonald/profile/raw/master/Donald%20Ebuga.pdf");
                 },
                 child: MouseRegion(
                   cursor: SystemMouseCursors.click,
@@ -114,7 +114,7 @@ class ServiceSection extends StatelessWidget {
             height: 5,
           ),
           Text(
-            "I may not be perfect, but I'm surely of some help",
+            "There is no Limit to creativity, just say it and I can create it",
             style: GoogleFonts.josefinSans(
               color: Colors.grey[400],
               fontSize: 14.0,

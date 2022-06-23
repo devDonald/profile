@@ -83,9 +83,10 @@ class ProjectModel {
       project: "Flutter App",
       title: "Sisterhood Global",
       description:
-          "This is a complete online e-commerce website of selling computer and seperate admin panel is built for handling the order request and only payement is added.",
+          "Driven by our mission to tackle global problems associated with women through effective use of social media. We are guided by the following values to empower women with the Word of God ",
       appPhotos: AppConstants.sisterhoodUpImage,
-      projectLink: "https://github.com/AgnelSelvan/computer-store.git",
+      projectLink:
+          "https://play.google.com/store/apps/details?id=com.abidon.sisterhood_global",
       techUsed: [
         TechnologyConstants.firebase,
         TechnologyConstants.laravel,
@@ -113,7 +114,7 @@ class ProjectModel {
       title: "My Flutter Web Portfolio",
       description: "",
       appPhotos: AppConstants.portfolioGif,
-      projectLink: "https://github.com/AgnelSelvan/Flutter-Web-Portfolio",
+      projectLink: "https://github.com/devDonald/profile",
       techUsed: [],
       buttonText: "Github Link",
     ),
